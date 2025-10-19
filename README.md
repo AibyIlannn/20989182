@@ -125,7 +125,7 @@ python -m http.server 8000
 ```
 
 ### 🌟 Live Demo
-Akses langsung di: **[pplgoneclass.vercel.app](https://pplgoneclass.vercel.app)**
+Akses langsung di: **[oneclass.vercel.app](https://oneclass.vercel.app)**
 
 ---
 
